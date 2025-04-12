@@ -1,0 +1,13 @@
+package gapless.gapless_back;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class GaplessBackApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(GaplessBackApplication.class, args);
+    }
+
+}
